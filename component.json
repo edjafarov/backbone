@@ -1,0 +1,27 @@
+{
+  "name": "backbone",
+  "description": "Give your JS App some Backbone with Models, Views, Collections, and Events.",
+  "homepage": "http://backbonejs.org/",
+  "keywords": [
+    "model",
+    "view",
+    "controller",
+    "router",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Jeremy Ashkenas <jeremy@documentcloud.org>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jashkenas/backbone.git"
+  },
+  "dependencies": {
+    "edjafarov/underscore": ""
+  },
+  "version": "0.9.9",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
