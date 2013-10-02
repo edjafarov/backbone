@@ -19,7 +19,7 @@
   "dependencies": {
     "edjafarov/underscore": "1.4.3"
   },
-  "version": "0.9.9",
+  "version": "0.9.10",
   "main": "index.js",
   "scripts": [
     "index.js"
