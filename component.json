@@ -17,7 +17,7 @@
     "url": "git://github.com/jashkenas/backbone.git"
   },
   "dependencies": {
-    "edjafarov/underscore": ""
+    "edjafarov/underscore": "1.4.3"
   },
   "version": "0.9.9",
   "main": "index.js",
